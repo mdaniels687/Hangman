@@ -1,2 +1,2 @@
 # Hangman
-Creating the game Hangman with different features
+Creating the game Hangman using pygame 
